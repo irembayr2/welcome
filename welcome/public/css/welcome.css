@@ -62,7 +62,7 @@ header {
     z-index: 1;
     color: black;
     text-align: left;
-    padding-top: 35vh
+    padding-top: 20vh;
 }
 
 .text-over-image h1 {
@@ -99,4 +99,6 @@ header {
     position: absolute;
     top: 0;
     right: 0;
+    overflow:hidden;
+    height:100%;
 }
